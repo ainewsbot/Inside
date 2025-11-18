@@ -1,8 +1,3 @@
-# Python
-
-Simple program to add two numbers:
-
-```python
 def add_numbers(first: float, second: float) -> float:
     """Return the sum of two numbers."""
     return first + second
@@ -22,4 +17,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-```
